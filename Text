@@ -1,0 +1,24 @@
+Baseeth/
+│
+├── docs/
+│   ├── base.md
+│   ├── l2.md
+│   ├── op-stack.md
+│   └── roadmap.md
+│
+├── contracts/
+│   ├── helloBase.sol
+│   └── README.md
+│
+├── scripts/
+│   └── deploy.js
+│
+├── frontend/
+│   └── README.md
+│
+├── resources/
+│   └── links.md
+│
+├── .gitignore
+├── README.md
+└── LICENSE
