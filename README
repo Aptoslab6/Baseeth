@@ -1,0 +1,18 @@
+# Baseeth
+
+Baseeth is a developer-oriented repository focused on
+Ethereum Layer 2 architecture with hands-on exploration
+of the Base network built on the OP Stack.
+
+## Scope
+- Ethereum L1 fundamentals
+- Layer 2 rollups and scaling
+- Base network internals
+- OP Stack concepts
+- Smart contract development (Solidity)
+
+## Repository Layout
+- Base/   → Base network research and tooling
+- Base3/  → Web3 experiments on Base
+- Chain/  → Blockchain core concepts
+- L2/     → Layer
